@@ -140,6 +140,10 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+.btn-disabled {
+    color: cadetblue;
+    cursor: not-allowed;
+}
 
 .dice {
     position: absolute;
